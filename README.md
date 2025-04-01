@@ -17,5 +17,5 @@ This is a simple Rust-based task manager application. It allows you to manage ta
 
 Clone the repository:
 ```bash
-git clone https://github.com/USERNAME/task_manager.git
-cd task_manager
+git clone https://github.com//abdulrahman-1212/Rust-Tasks-Management-System.git
+cd Rust-Tasks-Management-System
