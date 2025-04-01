@@ -1,0 +1,11 @@
+# Rust build files
+target/
+
+# Cargo lock file (can be added if you prefer not to share it)
+Cargo.lock
+
+# MacOS
+.DS_Store
+
+# IDE files
+.vscode/
